@@ -17,6 +17,7 @@
 
 class Solution {
     
+    // 再次验证删除不同字符串后是否回文
     func checkPalindrome(s: [String.Element], low: Int, heig: Int) -> Bool {
         var i = low, j = heig
         while i < j {
@@ -40,9 +41,11 @@ class Solution {
                 low += 1
                 heih -= 1
             } else {
+                // 当两个字符串不相等时，两个指针分别做一次删除操作，只要有一个是正确的就返回true
                 return checkPalindrome(s: charArr, low: low, heig: heih - 1) || checkPalindrome(s: charArr, low: low + 1, heig: heih)
             }
         }
+        // 默认是正确的回文
         return true
     }
 }
