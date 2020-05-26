@@ -1,0 +1,57 @@
+#include <iostream>
+#include <vector>
+#include <cstdlib> // 随机数
+#include <ctime>  // 时间
+#include <random>
+
+using namespace std;
+
+// 反转链表：迭代或递归
+struct ListNode {
+    int val;
+    ListNode* next;
+    ListNode(int x) : val(x), next(NULL){}
+};
+
+/*
+ *
+ */
+
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        // 为NULL 或者 长度为1的时候，直接返回该链表
+        if (head == NULL || head->next == NUll) {
+            return head;
+        }
+
+        // 递归：栈深度(n) 次数n 所以均为O(n)
+        ListNode* p = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return p;
+
+//        // 迭代
+//        ListNode* prev = NULL;
+//        ListNode* curr = head;
+//        // 当前节点不为空之前
+//        while (curr != NULL) {
+//            // 获取当前节点的下一个节点
+//            ListNode* nextTemp = curr->next;
+//            // 将当前节点的下一个节点指向prev
+//            curr->next = prev;
+//            // 将prev指向当前节点
+//            prev = curr;
+//            // 当前节点变更为下一节点
+//            curr = nextTemp;
+//        }
+//        return prev;
+    }
+};
+
+
+
+int main() {
+    cout << "wang jia wei";
+    return 0;
+}
