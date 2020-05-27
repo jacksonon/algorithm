@@ -23,21 +23,49 @@ struct TreeNode {
 // 二叉搜索树种第k小的元素
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int k) {
-        // 迭代
-        stack<TreeNode *> stack;
-        while (true) {
-            while (root != NULL) {
-                stack.push(root);
-                root = root->left;
-            }
-            root = stack.top();
-            stack.pop();
-            if (--k == 0) {
-                return root->val;
-            }
-            root = root->right;
+    int n = 0, res ;
+
+//    vector<int> inorder(TreeNode* root, vector<int> arr) {
+//        if (root == NULL) {
+//            return arr;
+//        }
+//        inorder(root->left, arr);
+//        arr.push_back(root->val);
+//        inorder(root->right, arr);
+//        return arr;
+//    }
+
+    void dfs(TreeNode *root, int k) {
+        if (!root) return;
+        dfs(root->left, k);
+        n++;
+        if (n == k) {
+            res = root->val;
         }
+        dfs(root->right, k);
+    }
+
+    int kthSmallest(TreeNode* root, int k) {
+        // 递归
+
+        dfs(root, k);
+        return res;
+
+
+        // 迭代 : 栈可以将递归转化为迭代
+//        stack<TreeNode *> stack;
+//        while (true) {
+//            while (root != NULL) {
+//                stack.push(root);
+//                root = root->left;
+//            }
+//            root = stack.top();
+//            stack.pop();
+//            if (--k == 0) {
+//                return root->val;
+//            }
+//            root = root->right;
+//        }
     }
 };
 
