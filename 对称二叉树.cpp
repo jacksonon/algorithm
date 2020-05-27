@@ -21,7 +21,7 @@ struct TreeNode {
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        isMirror(root, root);
+        return isMirror(root, root);
     }
 
     bool isMirror(TreeNode* t1, TreeNode* t2) {
