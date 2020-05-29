@@ -1,5 +1,6 @@
 # 小学生进阶之路
 
+- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
 - [两数相加.swift](https://github.com/wang542413041/algorithm/blob/master/两数相加.swift)
