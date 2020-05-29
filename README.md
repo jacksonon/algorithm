@@ -8,6 +8,7 @@
 - [二叉树中序遍历.cpp](https://github.com/wang542413041/algorithm/blob/master/二叉树中序遍历.cpp)
 - [二叉树遍历normal.cpp](https://github.com/wang542413041/algorithm/blob/master/二叉树遍历normal.cpp)
 - [从前序遍历和中序遍历构造序列构造二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/从前序遍历和中序遍历构造序列构造二叉树.cpp)
+- [位1的个数.cpp](https://github.com/wang542413041/algorithm/blob/master/位1的个数.cpp)
 - [删除链表中的节点.cpp](https://github.com/wang542413041/algorithm/blob/master/删除链表中的节点.cpp)
 - [反转字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/反转字符串.cpp)
 - [和可被K整除的子数组.cpp](https://github.com/wang542413041/algorithm/blob/master/和可被K整除的子数组.cpp)
