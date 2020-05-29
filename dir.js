@@ -16,7 +16,7 @@ fs.readdir("./", function(err, files) {
     }
     files.forEach(function(file) {
         if (file.indexOf('.cpp') != -1 || file.indexOf('.swift') != -1) {
-            var inputfile = "\n"+ "- " + file;
+            var inputfile = "\n"+ "- " + '[' + file + ']' + '(https://github.com/wang542413041/algorithm/blob/master/' + file + ')' ;
             fs.appendFileSync(fileName, inputfile);
         }
     });
