@@ -13,6 +13,7 @@
 - [删除链表中的节点.cpp](https://github.com/wang542413041/algorithm/blob/master/删除链表中的节点.cpp)
 - [反转字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/反转字符串.cpp)
 - [和可被K整除的子数组.cpp](https://github.com/wang542413041/algorithm/blob/master/和可被K整除的子数组.cpp)
+- [多数元素.cpp](https://github.com/wang542413041/algorithm/blob/master/多数元素.cpp)
 - [字符串解码.cpp](https://github.com/wang542413041/algorithm/blob/master/字符串解码.cpp)
 - [对称二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树.cpp)
 - [寻找重复数.cpp](https://github.com/wang542413041/algorithm/blob/master/寻找重复数.cpp)
