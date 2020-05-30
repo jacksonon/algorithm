@@ -25,6 +25,7 @@
 - [最小覆盖子串.cpp](https://github.com/wang542413041/algorithm/blob/master/最小覆盖子串.cpp)
 - [有效的括号.cpp](https://github.com/wang542413041/algorithm/blob/master/有效的括号.cpp)
 - [杨辉三角.cpp](https://github.com/wang542413041/algorithm/blob/master/杨辉三角.cpp)
+- [柱状图中最大的矩形.cpp](https://github.com/wang542413041/algorithm/blob/master/柱状图中最大的矩形.cpp)
 - [每个元音包含偶数次的最长子字符串.swift](https://github.com/wang542413041/algorithm/blob/master/每个元音包含偶数次的最长子字符串.swift)
 - [每日温度.cpp](https://github.com/wang542413041/algorithm/blob/master/每日温度.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
