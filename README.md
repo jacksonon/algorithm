@@ -1,6 +1,5 @@
 # 小学生进阶之路
-
-- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
@@ -16,6 +15,7 @@
 - [多数元素.cpp](https://github.com/wang542413041/algorithm/blob/master/多数元素.cpp)
 - [字符串解码.cpp](https://github.com/wang542413041/algorithm/blob/master/字符串解码.cpp)
 - [对称二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树.cpp)
+- [对称二叉树queue.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树queue.cpp)
 - [寻找重复数.cpp](https://github.com/wang542413041/algorithm/blob/master/寻找重复数.cpp)
 - [将有序数组转换为二叉搜索树.cpp](https://github.com/wang542413041/algorithm/blob/master/将有序数组转换为二叉搜索树.cpp)
 - [扁平化嵌套列表迭代器.cpp](https://github.com/wang542413041/algorithm/blob/master/扁平化嵌套列表迭代器.cpp)
