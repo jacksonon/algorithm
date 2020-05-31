@@ -1,5 +1,6 @@
 var fs = require("fs");
 const { exec } = require('child_process');
+var count = 0;
 
 let fileName = 'README.md'
 
@@ -18,9 +19,12 @@ fs.readdir("./", function(err, files) {
         if (file.indexOf('.cpp') != -1 || file.indexOf('.swift') != -1) {
             var inputfile = "\n"+ "- " + '[' + file + ']' + '(https://github.com/wang542413041/algorithm/blob/master/' + file + ')' ;
             fs.appendFileSync(fileName, inputfile);
+	    count += 1;
         }
     });
 });
+
+fs.appenFileSync(fileName, '\n > 总数 : ' + count + '题');
 
 var buf = new Buffer.alloc(1024);
 fs.open(fileName, 'r+', function(err, fd) {
