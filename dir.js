@@ -22,9 +22,11 @@ fs.readdir("./", function(err, files) {
 	    count += 1;
         }
     });
+    var tims = '\n > 总数 : ' + count + '题';
+    fs.appendFileSync(fileName, tims);
 });
 
-fs.appendFileSync(fileName, '\n > 总数 : ' + count + '题');
+
 
 var buf = new Buffer.alloc(1024);
 fs.open(fileName, 'r+', function(err, fd) {
