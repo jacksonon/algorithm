@@ -1,5 +1,6 @@
 # 小学生进阶之路
-p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+
+- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
@@ -19,6 +20,7 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [对称二叉树queue.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树queue.cpp)
 - [寻找重复数.cpp](https://github.com/wang542413041/algorithm/blob/master/寻找重复数.cpp)
 - [将有序数组转换为二叉搜索树.cpp](https://github.com/wang542413041/algorithm/blob/master/将有序数组转换为二叉搜索树.cpp)
+- [快乐数.cpp](https://github.com/wang542413041/algorithm/blob/master/快乐数.cpp)
 - [扁平化嵌套列表迭代器.cpp](https://github.com/wang542413041/algorithm/blob/master/扁平化嵌套列表迭代器.cpp)
 - [打家劫舍.cpp](https://github.com/wang542413041/algorithm/blob/master/打家劫舍.cpp)
 - [拥有最多糖果的孩子.cpp](https://github.com/wang542413041/algorithm/blob/master/拥有最多糖果的孩子.cpp)
@@ -33,4 +35,4 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [移动零.cpp](https://github.com/wang542413041/algorithm/blob/master/移动零.cpp)
 - [罗马数字转整数.cpp](https://github.com/wang542413041/algorithm/blob/master/罗马数字转整数.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 34题
+ > 总数 : 35题
