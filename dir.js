@@ -27,7 +27,6 @@ fs.readdir("./", function(err, files) {
 });
 
 
-
 var buf = new Buffer.alloc(1024);
 fs.open(fileName, 'r+', function(err, fd) {
     if (err) {
