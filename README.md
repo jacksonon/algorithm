@@ -22,6 +22,7 @@
 - [将有序数组转换为二叉搜索树.cpp](https://github.com/wang542413041/algorithm/blob/master/将有序数组转换为二叉搜索树.cpp)
 - [扁平化嵌套列表迭代器.cpp](https://github.com/wang542413041/algorithm/blob/master/扁平化嵌套列表迭代器.cpp)
 - [打家劫舍.cpp](https://github.com/wang542413041/algorithm/blob/master/打家劫舍.cpp)
+- [拥有最多糖果的孩子.cpp](https://github.com/wang542413041/algorithm/blob/master/拥有最多糖果的孩子.cpp)
 - [数组中只出现一次的数字.cpp](https://github.com/wang542413041/algorithm/blob/master/数组中只出现一次的数字.cpp)
 - [最小栈.cpp](https://github.com/wang542413041/algorithm/blob/master/最小栈.cpp)
 - [最小覆盖子串.cpp](https://github.com/wang542413041/algorithm/blob/master/最小覆盖子串.cpp)
