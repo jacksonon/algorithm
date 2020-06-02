@@ -29,6 +29,7 @@
 - [数组中只出现一次的数字.cpp](https://github.com/wang542413041/algorithm/blob/master/数组中只出现一次的数字.cpp)
 - [最小栈.cpp](https://github.com/wang542413041/algorithm/blob/master/最小栈.cpp)
 - [最小覆盖子串.cpp](https://github.com/wang542413041/algorithm/blob/master/最小覆盖子串.cpp)
+- [有效的字母异位数.cpp](https://github.com/wang542413041/algorithm/blob/master/有效的字母异位数.cpp)
 - [有效的括号.cpp](https://github.com/wang542413041/algorithm/blob/master/有效的括号.cpp)
 - [杨辉三角.cpp](https://github.com/wang542413041/algorithm/blob/master/杨辉三角.cpp)
 - [柱状图中最大的矩形.cpp](https://github.com/wang542413041/algorithm/blob/master/柱状图中最大的矩形.cpp)
@@ -39,4 +40,4 @@
 - [罗马数字转整数.cpp](https://github.com/wang542413041/algorithm/blob/master/罗马数字转整数.cpp)
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 39题
+ > 总数 : 40题
