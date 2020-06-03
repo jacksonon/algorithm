@@ -1,5 +1,6 @@
 # 小学生进阶之路
-p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+
+- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
@@ -39,5 +40,6 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [移动零.cpp](https://github.com/wang542413041/algorithm/blob/master/移动零.cpp)
 - [罗马数字转整数.cpp](https://github.com/wang542413041/algorithm/blob/master/罗马数字转整数.cpp)
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
+- [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 41题
+ > 总数 : 42题
