@@ -1,6 +1,5 @@
 # 小学生进阶之路
-
-- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
@@ -27,6 +26,7 @@
 - [打家劫舍.cpp](https://github.com/wang542413041/algorithm/blob/master/打家劫舍.cpp)
 - [拥有最多糖果的孩子.cpp](https://github.com/wang542413041/algorithm/blob/master/拥有最多糖果的孩子.cpp)
 - [数组中只出现一次的数字.cpp](https://github.com/wang542413041/algorithm/blob/master/数组中只出现一次的数字.cpp)
+- [新21点.cpp](https://github.com/wang542413041/algorithm/blob/master/新21点.cpp)
 - [最小栈.cpp](https://github.com/wang542413041/algorithm/blob/master/最小栈.cpp)
 - [最小覆盖子串.cpp](https://github.com/wang542413041/algorithm/blob/master/最小覆盖子串.cpp)
 - [有效的字母异位数.cpp](https://github.com/wang542413041/algorithm/blob/master/有效的字母异位数.cpp)
@@ -40,4 +40,4 @@
 - [罗马数字转整数.cpp](https://github.com/wang542413041/algorithm/blob/master/罗马数字转整数.cpp)
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 40题
+ > 总数 : 41题
