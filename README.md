@@ -1,10 +1,10 @@
 # 小学生进阶之路
-
-- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
 - [两数相加.swift](https://github.com/wang542413041/algorithm/blob/master/两数相加.swift)
+- [两整数之和.cpp](https://github.com/wang542413041/algorithm/blob/master/两整数之和.cpp)
 - [买卖股票的最佳时机I.cpp](https://github.com/wang542413041/algorithm/blob/master/买卖股票的最佳时机I.cpp)
 - [买卖股票的最佳时机II.cpp](https://github.com/wang542413041/algorithm/blob/master/买卖股票的最佳时机II.cpp)
 - [二叉搜索树种第k个最小的元素.cpp](https://github.com/wang542413041/algorithm/blob/master/二叉搜索树种第k个最小的元素.cpp)
@@ -44,4 +44,4 @@
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 44题
+ > 总数 : 45题
