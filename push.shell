@@ -1,5 +1,6 @@
 node dir.js
 git add .
-git commit -m "push"
+cur_time = "`date +%Y-%m-%d,%H:%m:%s`"
+"git commit -m '$(cur_tim)e'"  
 git push
 
