@@ -1,5 +1,5 @@
 node dir.js
 git add .
-`git commit -m "date +%Y-%m-%d,%H:%m:%s"`  
+git commit -m "hh"
 git push
 
