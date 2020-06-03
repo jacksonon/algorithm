@@ -1,5 +1,6 @@
 # 小学生进阶之路
-p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+
+- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [两数之和.swift](https://github.com/wang542413041/algorithm/blob/master/两数之和.swift)
@@ -15,6 +16,7 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [反转字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/反转字符串.cpp)
 - [合并两个有序链表.cpp](https://github.com/wang542413041/algorithm/blob/master/合并两个有序链表.cpp)
 - [和可被K整除的子数组.cpp](https://github.com/wang542413041/algorithm/blob/master/和可被K整除的子数组.cpp)
+- [外观数列推导.cpp](https://github.com/wang542413041/algorithm/blob/master/外观数列推导.cpp)
 - [多数元素.cpp](https://github.com/wang542413041/algorithm/blob/master/多数元素.cpp)
 - [字符串解码.cpp](https://github.com/wang542413041/algorithm/blob/master/字符串解码.cpp)
 - [对称二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树.cpp)
@@ -42,4 +44,4 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 43题
+ > 总数 : 44题
