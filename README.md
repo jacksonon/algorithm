@@ -13,6 +13,7 @@
 - [二叉树遍历normal.cpp](https://github.com/wang542413041/algorithm/blob/master/二叉树遍历normal.cpp)
 - [从前序遍历和中序遍历构造序列构造二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/从前序遍历和中序遍历构造序列构造二叉树.cpp)
 - [位1的个数.cpp](https://github.com/wang542413041/algorithm/blob/master/位1的个数.cpp)
+- [删除排序数组中的重复项.cpp](https://github.com/wang542413041/algorithm/blob/master/删除排序数组中的重复项.cpp)
 - [删除链表中的节点.cpp](https://github.com/wang542413041/algorithm/blob/master/删除链表中的节点.cpp)
 - [反转字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/反转字符串.cpp)
 - [合并两个有序链表.cpp](https://github.com/wang542413041/algorithm/blob/master/合并两个有序链表.cpp)
@@ -49,4 +50,4 @@
 - [除自身以外的数组内数字乘积.cpp](https://github.com/wang542413041/algorithm/blob/master/除自身以外的数组内数字乘积.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 49题
+ > 总数 : 50题
