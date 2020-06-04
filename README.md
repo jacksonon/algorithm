@@ -31,6 +31,7 @@
 - [拥有最多糖果的孩子.cpp](https://github.com/wang542413041/algorithm/blob/master/拥有最多糖果的孩子.cpp)
 - [数组中只出现一次的数字.cpp](https://github.com/wang542413041/algorithm/blob/master/数组中只出现一次的数字.cpp)
 - [新21点.cpp](https://github.com/wang542413041/algorithm/blob/master/新21点.cpp)
+- [最大子序和.cpp](https://github.com/wang542413041/algorithm/blob/master/最大子序和.cpp)
 - [最小栈.cpp](https://github.com/wang542413041/algorithm/blob/master/最小栈.cpp)
 - [最小覆盖子串.cpp](https://github.com/wang542413041/algorithm/blob/master/最小覆盖子串.cpp)
 - [有效的字母异位数.cpp](https://github.com/wang542413041/algorithm/blob/master/有效的字母异位数.cpp)
@@ -48,4 +49,4 @@
 - [除自身以外的数组内数字乘积.cpp](https://github.com/wang542413041/algorithm/blob/master/除自身以外的数组内数字乘积.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 48题
+ > 总数 : 49题
