@@ -42,6 +42,7 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [缺失数字.cpp](https://github.com/wang542413041/algorithm/blob/master/缺失数字.cpp)
 - [罗马数字转整数.cpp](https://github.com/wang542413041/algorithm/blob/master/罗马数字转整数.cpp)
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
+- [除自身以外的数组内数字乘积.cpp](https://github.com/wang542413041/algorithm/blob/master/除自身以外的数组内数字乘积.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 45题
+ > 总数 : 46题
