@@ -20,6 +20,7 @@
 - [外观数列推导.cpp](https://github.com/wang542413041/algorithm/blob/master/外观数列推导.cpp)
 - [多数元素.cpp](https://github.com/wang542413041/algorithm/blob/master/多数元素.cpp)
 - [字符串解码.cpp](https://github.com/wang542413041/algorithm/blob/master/字符串解码.cpp)
+- [存在重复元素.cpp](https://github.com/wang542413041/algorithm/blob/master/存在重复元素.cpp)
 - [对称二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树.cpp)
 - [对称二叉树queue.cpp](https://github.com/wang542413041/algorithm/blob/master/对称二叉树queue.cpp)
 - [寻找重复数.cpp](https://github.com/wang542413041/algorithm/blob/master/寻找重复数.cpp)
@@ -47,4 +48,4 @@
 - [除自身以外的数组内数字乘积.cpp](https://github.com/wang542413041/algorithm/blob/master/除自身以外的数组内数字乘积.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 47题
+ > 总数 : 48题
