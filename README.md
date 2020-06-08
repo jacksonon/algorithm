@@ -44,6 +44,7 @@
 - [求1+2+...+n的值.cpp](https://github.com/wang542413041/algorithm/blob/master/求1+2+...+n的值.cpp)
 - [相交链表.cpp](https://github.com/wang542413041/algorithm/blob/master/相交链表.cpp)
 - [移动零.cpp](https://github.com/wang542413041/algorithm/blob/master/移动零.cpp)
+- [等式方程的可满足性.cpp](https://github.com/wang542413041/algorithm/blob/master/等式方程的可满足性.cpp)
 - [缺失数字.cpp](https://github.com/wang542413041/algorithm/blob/master/缺失数字.cpp)
 - [罗马数字转整数.cpp](https://github.com/wang542413041/algorithm/blob/master/罗马数字转整数.cpp)
 - [递归分享.cpp](https://github.com/wang542413041/algorithm/blob/master/递归分享.cpp)
@@ -51,4 +52,4 @@
 - [顺时针打印矩阵.cpp](https://github.com/wang542413041/algorithm/blob/master/顺时针打印矩阵.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 51题
+ > 总数 : 52题
