@@ -1,5 +1,6 @@
 # 小学生进阶之路
 
+- [3的幂.cpp](https://github.com/wang542413041/algorithm/blob/master/3的幂.cpp)
 - [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
@@ -56,4 +57,4 @@
 - [顺时针打印矩阵.cpp](https://github.com/wang542413041/algorithm/blob/master/顺时针打印矩阵.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 56题
+ > 总数 : 57题
