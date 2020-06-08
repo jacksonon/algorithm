@@ -17,6 +17,7 @@
 - [删除排序数组中的重复项.cpp](https://github.com/wang542413041/algorithm/blob/master/删除排序数组中的重复项.cpp)
 - [删除链表中的节点.cpp](https://github.com/wang542413041/algorithm/blob/master/删除链表中的节点.cpp)
 - [反转字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/反转字符串.cpp)
+- [合并两个有序数组.cpp](https://github.com/wang542413041/algorithm/blob/master/合并两个有序数组.cpp)
 - [合并两个有序链表.cpp](https://github.com/wang542413041/algorithm/blob/master/合并两个有序链表.cpp)
 - [和可被K整除的子数组.cpp](https://github.com/wang542413041/algorithm/blob/master/和可被K整除的子数组.cpp)
 - [外观数列推导.cpp](https://github.com/wang542413041/algorithm/blob/master/外观数列推导.cpp)
@@ -55,4 +56,4 @@
 - [顺时针打印矩阵.cpp](https://github.com/wang542413041/algorithm/blob/master/顺时针打印矩阵.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 总数 : 55题
+ > 总数 : 56题
