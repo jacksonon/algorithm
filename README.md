@@ -1,5 +1,5 @@
 # 小学生进阶之路
-/github.com/wang542413041/algorithm/blob/master/3的幂.cpp)
+
 - [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
@@ -49,6 +49,7 @@
 - [每个元音包含偶数次的最长子字符串.swift](https://github.com/wang542413041/algorithm/blob/master/每个元音包含偶数次的最长子字符串.swift)
 - [每日温度.cpp](https://github.com/wang542413041/algorithm/blob/master/每日温度.cpp)
 - [求1+2+...+n的值.cpp](https://github.com/wang542413041/algorithm/blob/master/求1+2+...+n的值.cpp)
+- [求3的幂.cpp](https://github.com/wang542413041/algorithm/blob/master/求3的幂.cpp)
 - [爬楼梯.cpp](https://github.com/wang542413041/algorithm/blob/master/爬楼梯.cpp)
 - [环形链表.cpp](https://github.com/wang542413041/algorithm/blob/master/环形链表.cpp)
 - [相交链表.cpp](https://github.com/wang542413041/algorithm/blob/master/相交链表.cpp)
