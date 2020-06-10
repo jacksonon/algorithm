@@ -22,7 +22,10 @@ fs.readdir("./", function(err, files) {
 	    count += 1;
         }
     });
-    var days = Math.floor((Date('2020/05/19 0:0:0').getTime()-Date().getTime())/(24 * 3600 * 1000));
+    var date1=new Date('2020/5/19 0:0:0');    //开始时间
+    var date2=new Date();    //结束时间
+    var date3=date1.getTime()-date2.getTime(); //时间差秒
+    var days=Math.floor(date3/(24*3600*1000));
     var tims = '\n > 总数 : ' + count + '题' + '\n' + '累计答题：' + days + '天';
     fs.appendFileSync(fileName, tims);
 });
