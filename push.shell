@@ -1,5 +1,5 @@
 node dir.js
 git add .
-git commit -m "hh"
+git commit -m "IS ME !"
 git push
 
