@@ -31,7 +31,7 @@ fs.readdir("./", function(err, files) {
 });
 
 
-var buf = new Buffer.alloc(1024);
+var buf = new Buffer();
 fs.open(fileName, 'r+', function(err, fd) {
     if (err) {
         return console.log(err);
