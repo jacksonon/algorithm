@@ -1,5 +1,6 @@
 # 小学生进阶之路
-p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
+
+- [Excel表序列号.cpp](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [FizzBuzz.cpp](https://github.com/wang542413041/algorithm/blob/master/FizzBuzz.cpp)
 - [LRU淘汰算法.cpp](https://github.com/wang542413041/algorithm/blob/master/LRU淘汰算法.cpp)
 - [三数之和.cpp](https://github.com/wang542413041/algorithm/blob/master/三数之和.cpp)
@@ -43,6 +44,7 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [快乐数.cpp](https://github.com/wang542413041/algorithm/blob/master/快乐数.cpp)
 - [扁平化嵌套列表迭代器.cpp](https://github.com/wang542413041/algorithm/blob/master/扁平化嵌套列表迭代器.cpp)
 - [打家劫舍.cpp](https://github.com/wang542413041/algorithm/blob/master/打家劫舍.cpp)
+- [找出最长连续序列的长度.cpp](https://github.com/wang542413041/algorithm/blob/master/找出最长连续序列的长度.cpp)
 - [把数字翻译成字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/把数字翻译成字符串.cpp)
 - [拥有最多糖果的孩子.cpp](https://github.com/wang542413041/algorithm/blob/master/拥有最多糖果的孩子.cpp)
 - [括号生成.cpp](https://github.com/wang542413041/algorithm/blob/master/括号生成.cpp)
@@ -81,4 +83,4 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文串.cpp](https://github.com/wang542413041/algorithm/blob/master/验证回文串.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 累计答题 : 29天    总数 : 82题
+ > 累计答题 : 29天    总数 : 83题
