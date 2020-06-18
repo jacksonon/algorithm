@@ -17,6 +17,7 @@
 - [二叉树的深度.cpp](https://github.com/wang542413041/algorithm/blob/master/二叉树的深度.cpp)
 - [二叉树遍历normal.cpp](https://github.com/wang542413041/algorithm/blob/master/二叉树遍历normal.cpp)
 - [从上到下打印二叉树II.cpp](https://github.com/wang542413041/algorithm/blob/master/从上到下打印二叉树II.cpp)
+- [从先序遍历还原二叉树之迭代.cpp](https://github.com/wang542413041/algorithm/blob/master/从先序遍历还原二叉树之迭代.cpp)
 - [从前序遍历和中序遍历构造序列构造二叉树.cpp](https://github.com/wang542413041/algorithm/blob/master/从前序遍历和中序遍历构造序列构造二叉树.cpp)
 - [位1的个数.cpp](https://github.com/wang542413041/algorithm/blob/master/位1的个数.cpp)
 - [全排列.cpp](https://github.com/wang542413041/algorithm/blob/master/全排列.cpp)
@@ -83,4 +84,4 @@
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文串.cpp](https://github.com/wang542413041/algorithm/blob/master/验证回文串.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 累计答题 : 29天    总数 : 83题
+ > 累计答题 : 30天    总数 : 84题
