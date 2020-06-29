@@ -38,6 +38,7 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [回文链表.cpp](https://github.com/wang542413041/algorithm/blob/master/回文链表.cpp)
 - [外观数列推导.cpp](https://github.com/wang542413041/algorithm/blob/master/外观数列推导.cpp)
 - [多数元素.cpp](https://github.com/wang542413041/algorithm/blob/master/多数元素.cpp)
+- [多路平衡归并排序算法.cpp](https://github.com/wang542413041/algorithm/blob/master/多路平衡归并排序算法.cpp)
 - [子集.cpp](https://github.com/wang542413041/algorithm/blob/master/子集.cpp)
 - [字符串中的第一个唯一字符串.cpp](https://github.com/wang542413041/algorithm/blob/master/字符串中的第一个唯一字符串.cpp)
 - [字符串解码.cpp](https://github.com/wang542413041/algorithm/blob/master/字符串解码.cpp)
@@ -96,4 +97,4 @@ p](https://github.com/wang542413041/algorithm/blob/master/Excel表序列号.cpp)
 - [颠倒二进制位.cpp](https://github.com/wang542413041/algorithm/blob/master/颠倒二进制位.cpp)
 - [验证回文串.cpp](https://github.com/wang542413041/algorithm/blob/master/验证回文串.cpp)
 - [验证回文字符串2.swift](https://github.com/wang542413041/algorithm/blob/master/验证回文字符串2.swift)
- > 累计答题 : 31天    总数 : 97题
+ > 累计答题 : 41天    总数 : 98题
